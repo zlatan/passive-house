@@ -1,0 +1,26 @@
+Month         ;             Ta            ;             H_GvN         ;             H_GvE         ;             H_GvS         ;             H_GvW         ;             H_Gh          ;             Td            ;             Tsky          ;             FF
+              ;             [C]           ;             [kWh/m2]      ;             [kWh/m2]      ;             [kWh/m2]      ;             [kWh/m2]      ;             [kWh/m2]      ;             [C]           ;             [C]           ;             [m/s]
+Jan           ;             3.5           ;             14            ;             37            ;             95            ;             36            ;             52            ;             0.6           ;             -8.6          ;             4.1
+Feb           ;             5.2           ;             18            ;             41            ;             85            ;             41            ;             65            ;             1.6           ;             -7.0          ;             4.4
+Mar           ;             8.2           ;             26            ;             68            ;             110           ;             71            ;             111           ;             3.9           ;             -4.2          ;             4.3
+Apr           ;             11.5          ;             33            ;             89            ;             104           ;             89            ;             148           ;             7.1           ;             -0.9          ;             4.0
+May           ;             17.1          ;             49            ;             118           ;             102           ;             115           ;             198           ;             12.5          ;             5.1           ;             3.7
+Jun           ;             21.9          ;             54            ;             117           ;             93            ;             115           ;             208           ;             16.1          ;             9.5           ;             3.7
+Jul           ;             24.4          ;             52            ;             123           ;             99            ;             118           ;             212           ;             17.7          ;             11.8          ;             3.9
+Aug           ;             24.9          ;             40            ;             112           ;             119           ;             115           ;             193           ;             18.0          ;             12.0          ;             4.1
+Sep           ;             20.3          ;             29            ;             85            ;             120           ;             86            ;             138           ;             14.5          ;             8.2           ;             4.1
+Oct           ;             15.1          ;             23            ;             53            ;             100           ;             57            ;             87            ;             10.9          ;             4.4           ;             4.1
+Nov           ;             10.8          ;             14            ;             31            ;             75            ;             36            ;             50            ;             7.6           ;             0.3           ;             3.8
+Dec           ;             5.0           ;             12            ;             28            ;             75            ;             30            ;             42            ;             1.9           ;             -6.4          ;             4.1
+Year          ;             14.0          ;             364           ;             900           ;             1176          ;             907           ;             1500          ;             9.4           ;             2.0           ;             4.0
+
+Legend:
+Ta:           ;             Air temperature
+H_Gh:         ;             Irradiation of global rad., tilted plane
+H_GvE:        ;             Irradiation of global rad., tilted plane on Eastern facade (albedo 0.175)
+H_GvS:        ;             Irradiation of global rad., tilted plane on Southern facade (albedo 0.25)
+H_GvW:        ;             Irradiation of global rad., tilted plane on Western facade (albedo 0.175)
+H_GvN:        ;             Irradiation of global rad., tilted plane on Northern facade (albedo 0.1)
+Td:;Dewpoint temperature
+Tsky;Temperature sky
+FF;Wind speed

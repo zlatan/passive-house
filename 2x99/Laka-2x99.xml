@@ -10,10 +10,10 @@
 		<OwnerIsClient>false</OwnerIsClient>
 		<Date_Project>
 			<Year>2024</Year>
-			<Month>9</Month>
-			<Day>8</Day>
+			<Month>10</Month>
+			<Day>12</Day>
 			<Hour>9</Hour>
-			<Minutes>49</Minutes>
+			<Minutes>38</Minutes>
 		</Date_Project>
 		<WhiteBackgroundPictureBuilding/>
 		<Customer_Name/>
@@ -1258,7 +1258,7 @@
 								<AreaRoom unit="m²">1.5080209324564904</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="1">
 								<Name>000-bathroom</Name>
@@ -1268,7 +1268,7 @@
 								<Quantity>1</Quantity>
 								<AreaRoom unit="m²">12.950000000000001</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
-								<DesignVolumeFlowRateSupply unit="m³/h">36.0</DesignVolumeFlowRateSupply>
+								<DesignVolumeFlowRateSupply unit="m³/h">29.88</DesignVolumeFlowRateSupply>
 								<DesignVolumeFlowRateExhaust unit="m³/h">0.0</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="2">
@@ -1280,7 +1280,7 @@
 								<AreaRoom unit="m²">20.34999999999999</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="3">
 								<Name>000-bedroom2</Name>
@@ -1290,7 +1290,7 @@
 								<Quantity>1</Quantity>
 								<AreaRoom unit="m²">14.349999999999998</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
-								<DesignVolumeFlowRateSupply unit="m³/h">36.0</DesignVolumeFlowRateSupply>
+								<DesignVolumeFlowRateSupply unit="m³/h">29.88</DesignVolumeFlowRateSupply>
 								<DesignVolumeFlowRateExhaust unit="m³/h">0.0</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="4">
@@ -1302,7 +1302,7 @@
 								<AreaRoom unit="m²">4.8975856487384775</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="5">
 								<Name>000-kitchen</Name>
@@ -1312,7 +1312,7 @@
 								<Quantity>1</Quantity>
 								<AreaRoom unit="m²">17.34</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
-								<DesignVolumeFlowRateSupply unit="m³/h">36.0</DesignVolumeFlowRateSupply>
+								<DesignVolumeFlowRateSupply unit="m³/h">29.88</DesignVolumeFlowRateSupply>
 								<DesignVolumeFlowRateExhaust unit="m³/h">0.0</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="6">
@@ -1323,7 +1323,7 @@
 								<Quantity>1</Quantity>
 								<AreaRoom unit="m²">39.56</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
-								<DesignVolumeFlowRateSupply unit="m³/h">36.0</DesignVolumeFlowRateSupply>
+								<DesignVolumeFlowRateSupply unit="m³/h">29.88</DesignVolumeFlowRateSupply>
 								<DesignVolumeFlowRateExhaust unit="m³/h">0.0</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="7">
@@ -1335,7 +1335,7 @@
 								<AreaRoom unit="m²">17.639999999999993</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="8">
 								<Name>000-open</Name>
@@ -1345,7 +1345,7 @@
 								<Quantity>1</Quantity>
 								<AreaRoom unit="m²">0.0</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
-								<DesignVolumeFlowRateSupply unit="m³/h">36.0</DesignVolumeFlowRateSupply>
+								<DesignVolumeFlowRateSupply unit="m³/h">29.88</DesignVolumeFlowRateSupply>
 								<DesignVolumeFlowRateExhaust unit="m³/h">0.0</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="9">
@@ -1357,7 +1357,7 @@
 								<AreaRoom unit="m²">8.11488966625074</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="10">
 								<Name>000-unused-room</Name>
@@ -1368,7 +1368,7 @@
 								<AreaRoom unit="m²">7.015585370769477</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 							<Room index="11">
 								<Name>000-wc2</Name>
@@ -1379,7 +1379,7 @@
 								<AreaRoom unit="m²">9.25</AreaRoom>
 								<ClearRoomHeight unit="m">2.5</ClearRoomHeight>
 								<DesignVolumeFlowRateSupply unit="m³/h">0.0</DesignVolumeFlowRateSupply>
-								<DesignVolumeFlowRateExhaust unit="m³/h">36.0</DesignVolumeFlowRateExhaust>
+								<DesignVolumeFlowRateExhaust unit="m³/h">29.88</DesignVolumeFlowRateExhaust>
 							</Room>
 						</RoomsVentilation>
 						<LoadsPersonsPH count="12">
@@ -1809,7 +1809,7 @@
 							<ThermalBridge index="0">
 								<Name>Thermal_Bridges</Name>
 								<Type>-15</Type>
-								<Length>260.0</Length>
+								<Length>20.0</Length>
 								<PsiValue>0.1</PsiValue>
 								<IdentNrOptionalClimate>-1</IdentNrOptionalClimate>
 							</ThermalBridge>
@@ -1821,10 +1821,10 @@
 			</Building>
 			<ClimateLocation>
 				<Selection>2</Selection>
-				<Latitude_DB unit="°">39.133</Latitude_DB>
-				<Longitude_DB unit="°">-75.467</Longitude_DB>
-				<HeightNN_DB unit="m">7.0</HeightNN_DB>
-				<dUTC_DB>-5</dUTC_DB>
+				<Latitude_DB unit="°">42.57</Latitude_DB>
+				<Longitude_DB unit="°">27.52</Longitude_DB>
+				<HeightNN_DB unit="m">41.1</HeightNN_DB>
+				<dUTC_DB>2.0</dUTC_DB>
 				<Albedo choice="User defined">-2</Albedo>
 				<GroundReflShort unit="-">0.2</GroundReflShort>
 				<GroundReflLong unit="-">0.1</GroundReflLong>
@@ -1834,13 +1834,13 @@
 				<Unit_CO2concentration choice="ppmv">48</Unit_CO2concentration>
 				<PH_ClimateLocation>
 					<Selection>6</Selection>
-					<DailyTemperatureSwingSummer>9.7</DailyTemperatureSwingSummer>
-					<AverageWindSpeed>4</AverageWindSpeed>
-					<Latitude>39.133</Latitude>
-					<Longitude>-75.467</Longitude>
-					<HeightNNWeatherStation>7.0</HeightNNWeatherStation>
-					<dUTC>-5</dUTC>
-					<HeightNNBuilding>7.0</HeightNNBuilding>
+					<DailyTemperatureSwingSummer>8.0</DailyTemperatureSwingSummer>
+					<AverageWindSpeed>4.12969140574</AverageWindSpeed>
+					<Latitude>42.57</Latitude>
+					<Longitude>27.52</Longitude>
+					<HeightNNWeatherStation>41.1</HeightNNWeatherStation>
+					<dUTC>2.0</dUTC>
+					<HeightNNBuilding>41.1</HeightNNBuilding>
 					<ClimateZone>1</ClimateZone>
 					<GroundThermalConductivity>2</GroundThermalConductivity>
 					<GroundHeatCapacitiy>1000</GroundHeatCapacitiy>
@@ -1848,141 +1848,141 @@
 					<DepthGroundwater>3</DepthGroundwater>
 					<FlowRateGroundwater>0.05</FlowRateGroundwater>
 					<TemperatureMonthly count="12">
-						<Item index="0">0.8</Item>
-						<Item index="1">1.8</Item>
-						<Item index="2">4.1</Item>
-						<Item index="3">11.4</Item>
-						<Item index="4">15.8</Item>
-						<Item index="5">22.8</Item>
-						<Item index="6">24.9</Item>
-						<Item index="7">22.2</Item>
-						<Item index="8">19.3</Item>
-						<Item index="9">14.3</Item>
-						<Item index="10">5.4</Item>
-						<Item index="11">3.9</Item>
+						<Item index="0">2.89731543624</Item>
+						<Item index="1">3.89583952452</Item>
+						<Item index="2">6.91006711409</Item>
+						<Item index="3">11.0403606103</Item>
+						<Item index="4">15.955033557</Item>
+						<Item index="5">20.9034674064</Item>
+						<Item index="6">23.1115436242</Item>
+						<Item index="7">22.9753020134</Item>
+						<Item index="8">19.1654646325</Item>
+						<Item index="9">14.2715436242</Item>
+						<Item index="10">8.65104022191</Item>
+						<Item index="11">5.1810483871</Item>
 					</TemperatureMonthly>
 					<DewPointTemperatureMonthly count="12">
-						<Item index="0">-3.5</Item>
-						<Item index="1">-4.1</Item>
-						<Item index="2">-3.1</Item>
-						<Item index="3">3.5</Item>
-						<Item index="4">7.5</Item>
-						<Item index="5">16.3</Item>
-						<Item index="6">20.3</Item>
-						<Item index="7">18.4</Item>
-						<Item index="8">13.6</Item>
-						<Item index="9">7.5</Item>
-						<Item index="10">0.3</Item>
-						<Item index="11">-1.7</Item>
+						<Item index="0">-0.813422818792</Item>
+						<Item index="1">-0.509063893016</Item>
+						<Item index="2">3.02577181208</Item>
+						<Item index="3">6.53980582524</Item>
+						<Item index="4">11.692885906</Item>
+						<Item index="5">16.0866851595</Item>
+						<Item index="6">18.5347651007</Item>
+						<Item index="7">17.5459060403</Item>
+						<Item index="8">13.9633841886</Item>
+						<Item index="9">10.1744966443</Item>
+						<Item index="10">4.86504854369</Item>
+						<Item index="11">2.7186827957</Item>
 					</DewPointTemperatureMonthly>
 					<SkyTemperatureMonthly count="12">
-						<Item index="0">-12.7</Item>
-						<Item index="1">-13.2</Item>
-						<Item index="2">-11.6</Item>
-						<Item index="3">-2.9</Item>
-						<Item index="4">1.9</Item>
-						<Item index="5">11.3</Item>
-						<Item index="6">15.9</Item>
-						<Item index="7">13.3</Item>
-						<Item index="8">8.2</Item>
-						<Item index="9">1.9</Item>
-						<Item index="10">-7.2</Item>
-						<Item index="11">-8.8</Item>
+						<Item index="0">0.0</Item>
+						<Item index="1">0.0</Item>
+						<Item index="2">0.0</Item>
+						<Item index="3">0.0</Item>
+						<Item index="4">0.0</Item>
+						<Item index="5">0.0</Item>
+						<Item index="6">0.0</Item>
+						<Item index="7">0.0</Item>
+						<Item index="8">0.0</Item>
+						<Item index="9">0.0</Item>
+						<Item index="10">0.0</Item>
+						<Item index="11">0.0</Item>
 					</SkyTemperatureMonthly>
 					<NorthSolarRadiationMonthly count="12">
-						<Item index="0">22.0</Item>
-						<Item index="1">29.0</Item>
-						<Item index="2">35.0</Item>
-						<Item index="3">40.0</Item>
-						<Item index="4">52.0</Item>
-						<Item index="5">55.0</Item>
-						<Item index="6">51.0</Item>
-						<Item index="7">46.0</Item>
-						<Item index="8">36.0</Item>
-						<Item index="9">30.0</Item>
-						<Item index="10">20.0</Item>
-						<Item index="11">19.0</Item>
+						<Item index="0">23.940310024</Item>
+						<Item index="1">34.3838605997</Item>
+						<Item index="2">47.3613139005</Item>
+						<Item index="3">62.4429644358</Item>
+						<Item index="4">75.5060275118</Item>
+						<Item index="5">83.1708945464</Item>
+						<Item index="6">75.6511090294</Item>
+						<Item index="7">63.9842780735</Item>
+						<Item index="8">49.958362543</Item>
+						<Item index="9">36.5200750109</Item>
+						<Item index="10">25.1942202567</Item>
+						<Item index="11">19.736995989</Item>
 					</NorthSolarRadiationMonthly>
 					<EastSolarRadiationMonthly count="12">
-						<Item index="0">49.0</Item>
-						<Item index="1">53.0</Item>
-						<Item index="2">73.0</Item>
-						<Item index="3">84.0</Item>
-						<Item index="4">94.0</Item>
-						<Item index="5">96.0</Item>
-						<Item index="6">83.0</Item>
-						<Item index="7">92.0</Item>
-						<Item index="8">79.0</Item>
-						<Item index="9">77.0</Item>
-						<Item index="10">37.0</Item>
-						<Item index="11">45.0</Item>
+						<Item index="0">42.2240564511</Item>
+						<Item index="1">60.9107698516</Item>
+						<Item index="2">81.7121608921</Item>
+						<Item index="3">109.783769143</Item>
+						<Item index="4">131.957785571</Item>
+						<Item index="5">136.293706046</Item>
+						<Item index="6">136.042248157</Item>
+						<Item index="7">126.734371299</Item>
+						<Item index="8">95.1144777075</Item>
+						<Item index="9">68.125616032</Item>
+						<Item index="10">42.8116522116</Item>
+						<Item index="11">33.8911192049</Item>
 					</EastSolarRadiationMonthly>
 					<SouthSolarRadiationMonthly count="12">
-						<Item index="0">114.0</Item>
-						<Item index="1">96.0</Item>
-						<Item index="2">102.0</Item>
-						<Item index="3">84.0</Item>
-						<Item index="4">75.0</Item>
-						<Item index="5">70.0</Item>
-						<Item index="6">70.0</Item>
-						<Item index="7">88.0</Item>
-						<Item index="8">100.0</Item>
-						<Item index="9">144.0</Item>
-						<Item index="10">70.0</Item>
-						<Item index="11">119.0</Item>
+						<Item index="0">109.018885555</Item>
+						<Item index="1">132.285393455</Item>
+						<Item index="2">129.840642248</Item>
+						<Item index="3">129.542178817</Item>
+						<Item index="4">121.049105087</Item>
+						<Item index="5">114.597231082</Item>
+						<Item index="6">120.063878339</Item>
+						<Item index="7">137.59802399</Item>
+						<Item index="8">145.38623314</Item>
+						<Item index="9">139.536735517</Item>
+						<Item index="10">105.527699023</Item>
+						<Item index="11">91.9579567069</Item>
 					</SouthSolarRadiationMonthly>
 					<WestSolarRadiationMonthly count="12">
-						<Item index="0">53.0</Item>
-						<Item index="1">54.0</Item>
-						<Item index="2">69.0</Item>
-						<Item index="3">76.0</Item>
-						<Item index="4">88.0</Item>
-						<Item index="5">95.0</Item>
-						<Item index="6">84.0</Item>
-						<Item index="7">85.0</Item>
-						<Item index="8">77.0</Item>
-						<Item index="9">81.0</Item>
-						<Item index="10">33.0</Item>
-						<Item index="11">48.0</Item>
+						<Item index="0">47.9269584686</Item>
+						<Item index="1">72.9922549535</Item>
+						<Item index="2">96.4758703566</Item>
+						<Item index="3">116.939361923</Item>
+						<Item index="4">137.267128954</Item>
+						<Item index="5">151.719414241</Item>
+						<Item index="6">147.345097274</Item>
+						<Item index="7">140.039811317</Item>
+						<Item index="8">116.208327241</Item>
+						<Item index="9">80.4653650371</Item>
+						<Item index="10">49.2524778154</Item>
+						<Item index="11">38.6357926003</Item>
 					</WestSolarRadiationMonthly>
 					<GlobalSolarRadiationMonthly count="12">
-						<Item index="0">64.0</Item>
-						<Item index="1">72.0</Item>
-						<Item index="2">112.0</Item>
-						<Item index="3">138.0</Item>
-						<Item index="4">161.0</Item>
-						<Item index="5">176.0</Item>
-						<Item index="6">158.0</Item>
-						<Item index="7">159.0</Item>
-						<Item index="8">131.0</Item>
-						<Item index="9">121.0</Item>
-						<Item index="10">55.0</Item>
-						<Item index="11">61.0</Item>
+						<Item index="0">53.691</Item>
+						<Item index="1">75.179</Item>
+						<Item index="2">112.974</Item>
+						<Item index="3">148.566</Item>
+						<Item index="4">187.674</Item>
+						<Item index="5">198.692</Item>
+						<Item index="6">202.246</Item>
+						<Item index="7">183.057</Item>
+						<Item index="8">134.067</Item>
+						<Item index="9">92.027</Item>
+						<Item index="10">55.042</Item>
+						<Item index="11">42.725</Item>
 					</GlobalSolarRadiationMonthly>
-					<TemperatureHeating1>-9.6</TemperatureHeating1>
-					<NorthSolarRadiationHeating1>49.0</NorthSolarRadiationHeating1>
-					<EastSolarRadiationHeating1>93.0</EastSolarRadiationHeating1>
-					<SouthSolarRadiationHeating1>206.0</SouthSolarRadiationHeating1>
-					<WestSolarRadiationHeating1>109.0</WestSolarRadiationHeating1>
-					<GlobalSolarRadiationHeating1>124.0</GlobalSolarRadiationHeating1>
-					<TemperatureHeating2>-3.7</TemperatureHeating2>
-					<NorthSolarRadiationHeating2>34.0</NorthSolarRadiationHeating2>
-					<EastSolarRadiationHeating2>48.0</EastSolarRadiationHeating2>
-					<SouthSolarRadiationHeating2>90.0</SouthSolarRadiationHeating2>
-					<WestSolarRadiationHeating2>59.0</WestSolarRadiationHeating2>
-					<GlobalSolarRadiationHeating2>66.0</GlobalSolarRadiationHeating2>
-					<TemperatureCooling>27.6</TemperatureCooling>
-					<NorthSolarRadiationCooling>78.0</NorthSolarRadiationCooling>
-					<EastSolarRadiationCooling>108.0</EastSolarRadiationCooling>
-					<SouthSolarRadiationCooling>100.0</SouthSolarRadiationCooling>
-					<WestSolarRadiationCooling>112.0</WestSolarRadiationCooling>
-					<GlobalSolarRadiationCooling>209.0</GlobalSolarRadiationCooling>
-					<TemperatureCooling2>27.6</TemperatureCooling2>
-					<NorthSolarRadiationCooling2>78.0</NorthSolarRadiationCooling2>
-					<EastSolarRadiationCooling2>108.0</EastSolarRadiationCooling2>
-					<SouthSolarRadiationCooling2>100.0</SouthSolarRadiationCooling2>
-					<WestSolarRadiationCooling2>112.0</WestSolarRadiationCooling2>
-					<GlobalSolarRadiationCooling2>209.0</GlobalSolarRadiationCooling2>
+					<TemperatureHeating1>-9.0</TemperatureHeating1>
+					<NorthSolarRadiationHeating1>0.0</NorthSolarRadiationHeating1>
+					<EastSolarRadiationHeating1>0.0</EastSolarRadiationHeating1>
+					<SouthSolarRadiationHeating1>0.0</SouthSolarRadiationHeating1>
+					<WestSolarRadiationHeating1>0.0</WestSolarRadiationHeating1>
+					<GlobalSolarRadiationHeating1>61.05</GlobalSolarRadiationHeating1>
+					<TemperatureHeating2>0.0</TemperatureHeating2>
+					<NorthSolarRadiationHeating2>0.0</NorthSolarRadiationHeating2>
+					<EastSolarRadiationHeating2>0.0</EastSolarRadiationHeating2>
+					<SouthSolarRadiationHeating2>0.0</SouthSolarRadiationHeating2>
+					<WestSolarRadiationHeating2>0.0</WestSolarRadiationHeating2>
+					<GlobalSolarRadiationHeating2>0.0</GlobalSolarRadiationHeating2>
+					<TemperatureCooling>0.0</TemperatureCooling>
+					<NorthSolarRadiationCooling>0.0</NorthSolarRadiationCooling>
+					<EastSolarRadiationCooling>0.0</EastSolarRadiationCooling>
+					<SouthSolarRadiationCooling>0.0</SouthSolarRadiationCooling>
+					<WestSolarRadiationCooling>0.0</WestSolarRadiationCooling>
+					<GlobalSolarRadiationCooling>0.0</GlobalSolarRadiationCooling>
+					<TemperatureCooling2>0.0</TemperatureCooling2>
+					<NorthSolarRadiationCooling2>0.0</NorthSolarRadiationCooling2>
+					<EastSolarRadiationCooling2>0.0</EastSolarRadiationCooling2>
+					<SouthSolarRadiationCooling2>0.0</SouthSolarRadiationCooling2>
+					<WestSolarRadiationCooling2>0.0</WestSolarRadiationCooling2>
+					<GlobalSolarRadiationCooling2>0.0</GlobalSolarRadiationCooling2>
 					<SelectionPECO2Factor>6</SelectionPECO2Factor>
 					<PEFactorsUserDef count="16">
 						<PEF0 unit="kWh/kWh">1.1</PEF0>
@@ -2044,7 +2044,7 @@
 						<BuildingWindExposure>1</BuildingWindExposure>
 						<FoundationInterfaces count="1">
 							<FoundationInterface index="0">
-								<Name>None</Name>
+								<Name>slab</Name>
 								<SettingFloorSlabType>6</SettingFloorSlabType>
 								<FloorSlabType>3</FloorSlabType>
 								<FloorSlabArea_Selection>6</FloorSlabArea_Selection>
@@ -2645,7 +2645,7 @@
 			<Uw_Detailed>true</Uw_Detailed>
 			<GlazingFrameDetailed>true</GlazingFrameDetailed>
 			<FrameFactor>0.7242364315535045</FrameFactor>
-			<U_Value>0.9454010107668643</U_Value>
+			<U_Value>0.8350955833882662</U_Value>
 			<U_Value_Glazing>0.62</U_Value_Glazing>
 			<MeanEmissivity>0.1</MeanEmissivity>
 			<g_Value>0.4</g_Value>
@@ -2653,19 +2653,19 @@
 			<U_Value_Frame>1.0</U_Value_Frame>
 			<Frame_Width_Left>0.1</Frame_Width_Left>
 			<Frame_Psi_Left>0.04</Frame_Psi_Left>
-			<Frame_U_Left>1.0</Frame_U_Left>
+			<Frame_U_Left>0.6</Frame_U_Left>
 			<Glazing_Psi_Left>0.04</Glazing_Psi_Left>
 			<Frame_Width_Right>0.1</Frame_Width_Right>
 			<Frame_Psi_Right>0.04</Frame_Psi_Right>
-			<Frame_U_Right>1.0</Frame_U_Right>
+			<Frame_U_Right>0.6</Frame_U_Right>
 			<Glazing_Psi_Right>0.04</Glazing_Psi_Right>
 			<Frame_Width_Top>0.1</Frame_Width_Top>
 			<Frame_Psi_Top>0.04</Frame_Psi_Top>
-			<Frame_U_Top>1.0</Frame_U_Top>
+			<Frame_U_Top>0.6</Frame_U_Top>
 			<Glazing_Psi_Top>0.04</Glazing_Psi_Top>
 			<Frame_Width_Bottom>0.1</Frame_Width_Bottom>
 			<Frame_Psi_Bottom>0.04</Frame_Psi_Bottom>
-			<Frame_U_Bottom>1.0</Frame_U_Bottom>
+			<Frame_U_Bottom>0.6</Frame_U_Bottom>
 			<Glazing_Psi_Bottom>0.04</Glazing_Psi_Bottom>
 		</WindowType>
 	</WindowTypes>
@@ -2674,7 +2674,7 @@
 			<IdentNr>1</IdentNr>
 			<Name>Window shader</Name>
 			<OperationMode>1</OperationMode>
-			<MaxRedFactorRadiation>0.1</MaxRedFactorRadiation>
+			<MaxRedFactorRadiation>0.37</MaxRedFactorRadiation>
 			<ExternalEmissivity>0.8</ExternalEmissivity>
 			<EquivalentAbsorptivity>0.0</EquivalentAbsorptivity>
 			<ThermalResistanceSupplement>0.0</ThermalResistanceSupplement>
