@@ -13,7 +13,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/">
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -922,6 +923,25 @@
          d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
          style="fill:context-stroke;fill-rule:evenodd;stroke:none"
          id="path7-8-8-8-20-4-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-9-5-2-2-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-8-8-8-20-1" />
     </marker>
   </defs>
   <g
@@ -2856,17 +2876,17 @@
        id="path5-2" />
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';fill:#000000;fill-opacity:0.647;stroke:none;stroke-width:0.264999;stroke-opacity:1"
+       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';fill:#000000;fill-opacity:0.64700001;stroke:none;stroke-width:0.264999;stroke-opacity:1"
        x="58.312962"
        y="227.18152"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
-         style="stroke:none;stroke-width:0.265;stroke-opacity:1;fill:#000000"
+         style="stroke:none;stroke-width:0.265;stroke-opacity:1;fill:#000000;fill-opacity:0.64700001"
          x="58.312962"
          y="227.18152">EPS 15 [cm]</tspan><tspan
          sodipodi:role="line"
-         style="stroke:none;stroke-width:0.265;stroke-opacity:1;fill:#000000"
+         style="stroke:none;stroke-width:0.265;stroke-opacity:1;fill:#000000;fill-opacity:0.64700001"
          x="58.312962"
          y="236.00098"
          id="tspan3">(200 kPa) </tspan></text>
@@ -2902,16 +2922,7 @@
        x="23.630789"
        y="76.156441"
        id="text8-2"
-       transform="translate(0.20798783,98.269953)"><tspan
-         x="23.630789"
-         y="76.156441"
-         id="tspan22"><tspan
-           style="font-size:7.05556px;-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.265"
-           id="tspan6">Паробариера 15 [</tspan><tspan
-           style="font-size:7.05556px;-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.265"
-           id="tspan20">mm</tspan><tspan
-           style="font-size:7.05556px;-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.265"
-           id="tspan21">]</tspan></tspan></text>
+       transform="translate(0.20798783,98.269953)" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';fill:#00ff00;fill-opacity:0.647;stroke:none;stroke-width:0.264999;stroke-opacity:1"
@@ -3021,8 +3032,8 @@
        d="m 285.98749,200.76949 -35.47228,18.57809"
        id="path5-2-0-6" />
     <path
-       style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.261;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-0)"
-       d="M 289.83178,179.64831 254.3595,198.2264"
+       style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.465751;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-0)"
+       d="m 354.70856,210.16602 -95.97908,21.86456"
        id="path5-2-0-6-1" />
     <path
        style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.261;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-7)"
@@ -3042,29 +3053,29 @@
        x="255.90723"
        y="88.578667"
        id="text63"
-       transform="translate(42.803485,88.460896)"><tspan
+       transform="translate(114.14582,120.46659)"><tspan
          x="255.90723"
          y="88.578667"
-         id="tspan24"><tspan
+         id="tspan4"><tspan
            style="font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan23">Дренажна
+           id="tspan1">Дренажна
 </tspan></tspan><tspan
          x="255.90723"
          y="99.60297"
-         id="tspan26"><tspan
+         id="tspan6"><tspan
            style="font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
-           id="tspan25">подложка</tspan></tspan></text>
+           id="tspan5">подложка</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.99996161;fill-rule:nonzero;stroke:none;stroke-width:0.464;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="300.7684"
-       y="198.87341"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.999962;fill-rule:nonzero;stroke:none;stroke-width:0.464;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="303.47403"
+       y="203.66138"
        id="text65"><tspan
          sodipodi:role="line"
          id="tspan65"
-         style="stroke-width:0.464;fill:#000000;fill-opacity:0.99996161"
-         x="300.7684"
-         y="198.87341">Хидроизолация</tspan></text>
+         style="fill:#000000;fill-opacity:0.999962;stroke-width:0.464"
+         x="303.47403"
+         y="203.66138">Хидроизолация</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';fill:#000000;fill-opacity:0.99996161;stroke:none;stroke-width:0.264999"
@@ -3175,12 +3186,12 @@
        d="m 287.20895,138.63892 -35.47228,18.57809"
        id="path5-2-0-6-1-3-9" />
     <path
-       style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.261;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-9)"
-       d="M 281.41828,120.599 245.946,139.17709"
+       style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.347907;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-9)"
+       d="m 328.10176,81.514754 -80.84211,3.063967"
        id="path5-2-0-6-43" />
     <path
        style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.321822;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-2)"
-       d="M 280.20682,86.543176 236.46668,109.44971"
+       d="M 279.61678,65.686468 235.87664,88.593002"
        id="path5-2-0-6-17" />
     <path
        style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.321822;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-2-7)"
@@ -3192,31 +3203,31 @@
        x="23.630789"
        y="76.156441"
        id="text8-2-1"
-       transform="translate(246.94732,9.6054257)"><tspan
+       transform="translate(246.35728,-11.251282)"><tspan
          x="23.630789"
          y="76.156441"
-         id="tspan30"><tspan
+         id="tspan17"><tspan
            style="font-size:7.05556px;-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.265"
-           id="tspan27">Тухли 25 [</tspan><tspan
+           id="tspan14">Тухли 25 [</tspan><tspan
            style="font-size:7.05556px;-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.265"
-           id="tspan28">cm</tspan><tspan
+           id="tspan15">cm</tspan><tspan
            style="font-size:7.05556px;-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.265"
-           id="tspan29">]</tspan></tspan></text>
+           id="tspan16">]</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#280b0b;fill-opacity:0.934928;fill-rule:nonzero;stroke:none;stroke-width:0.261;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="298.74866"
-       y="111.00562"
+       x="358.13351"
+       y="78.872902"
        id="text68"><tspan
          sodipodi:role="line"
          id="tspan68"
          style="stroke-width:0.261"
-         x="298.74866"
-         y="111.00562">Твърди блокове</tspan><tspan
+         x="358.13351"
+         y="78.872902">Твърди блокове</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.261"
-         x="298.74866"
-         y="119.82507"
+         x="358.13351"
+         y="87.692352"
          id="tspan69">каменна вата 15-20 [cm]</tspan></text>
     <text
        xml:space="preserve"
@@ -3326,7 +3337,7 @@
          y="80.260963"
          id="tspan48-0-0-0-5">Majrex 200</tspan></text>
     <rect
-       style="fill:#999999;fill-opacity:0.934928;fill-rule:nonzero;stroke:none;stroke-width:0.263618;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#2a7fff;fill-opacity:0.934928;fill-rule:nonzero;stroke:none;stroke-width:0.263618;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect73"
        width="113.80012"
        height="3.9640567"
@@ -3339,14 +3350,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.934928;fill-rule:nonzero;stroke:none;stroke-width:0.261;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="109.64374"
-       y="83.153954"
+       x="110.15542"
+       y="83.231125"
        id="text74"><tspan
          sodipodi:role="line"
          id="tspan74"
-         style="stroke-width:0.261;fill:#000000"
-         x="109.64374"
-         y="83.153954">Гипс</tspan></text>
+         style="fill:#000000;stroke-width:0.261"
+         x="110.15542"
+         y="83.231125">Таванно</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.261"
+         x="110.15542"
+         y="92.050575"
+         id="tspan11">охлаждане</tspan></text>
     <path
        style="fill:#e6e6e6;fill-opacity:0.647;stroke:#bababa;stroke-width:0.255913;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-0-3-3-5-4-3)"
        d="M 73.268835,58.355166 109.57553,40.120386"
@@ -3464,7 +3480,7 @@
        inkscape:original-d="m 250.37131,246.02438 c 1.90823,0.0321 3.81645,0.0641 5.72467,0.0962 0.26812,1.86552 0.53622,3.73097 0.80433,5.59645 9.48115,3.71106 18.96194,7.42197 28.44292,11.13296 0.32885,1.95752 0.6577,3.91499 0.98655,5.87249 -1.61462,1.51627 -3.22919,3.03249 -4.84378,4.54874 -2.66174,-0.0287 -5.32339,-0.0574 -7.9851,-0.0861 -3.91269,-1.2555 -7.82521,-2.51092 -11.73782,-3.7664 -0.80593,-0.66325 -1.61182,-1.32649 -2.41773,-1.98974 -0.70482,-1.15218 -1.4096,-2.30434 -2.1144,-3.45653 -1.40389,-0.36447 -2.80773,-0.72894 -4.21159,-1.0934 -0.72658,-0.22439 -1.45313,-0.44877 -2.1797,-0.67315 -0.15612,-5.39395 -0.31223,-10.78768 -0.46835,-16.18152 z"
        transform="translate(-0.03146062,0.17511192)" />
     <rect
-       style="fill:#999999;fill-opacity:0.934928;fill-rule:nonzero;stroke:none;stroke-width:0.255226;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#d40000;fill-opacity:0.934928;fill-rule:nonzero;stroke:none;stroke-width:0.255226;stroke-miterlimit:5.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect73-5"
        width="106.6698"
        height="3.9640567"
@@ -3490,5 +3506,119 @@
          x="56.742165"
          y="156.50934"
          id="tspan19">отопление</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#232323;stroke-width:0.361;stroke-miterlimit:5.1;paint-order:stroke fill markers"
+       id="rect3"
+       width="4.9482446"
+       height="113.48788"
+       x="258.60632"
+       y="60.466408" />
+    <g
+       id="grass"
+       transform="matrix(1.3680557,-7.8950915e-4,4.4175632e-4,0.76547256,-7163.3592,-476.22983)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+        <g
+   id="grass1"
+   serif:id="grass"
+   transform="translate(0,147.971)">
+            <g
+   transform="matrix(1.11356,0,0,0.999802,5410.05,645.611)"
+   id="g2">
+                <path
+   d="m 9.973,69.932 0.024,-7.99 5.704,-1.363 3.142,2.182 1.165,-3.274 3.609,0.819 1.164,-3.274 6.723,2.663 1.397,0.273 13.298,-2.936 c 0,0 8.029,6.417 8.612,6.69 0.582,0.273 19.788,-3.273 19.788,-3.273 l 3.841,-3.417 8.728,4.235 11.196,2.462 -0.021,6.203 z"
+   style="fill:#679a45;fill-rule:nonzero"
+   id="path1-5" />
+
+            </g>
+
+            <g
+   transform="matrix(1.08642,0,0,0.999802,5416.88,645.611)"
+   id="g3">
+                <path
+   d="m 13.199,68.354 3.726,-5.864 6.139,5.932 z"
+   style="fill:#35813f;fill-rule:nonzero"
+   id="path2-3" />
+
+            </g>
+
+            <g
+   transform="matrix(1.08642,0,0,0.999802,5416.88,645.611)"
+   id="g4">
+                <path
+   d="m 30.542,68.354 2.647,-3.273 h 1.747 l 4.628,-2.661 1.133,3.069 12.048,-1.023 4.801,3.683 z"
+   style="fill:#35813f;fill-rule:nonzero"
+   id="path3" />
+
+            </g>
+
+            <g
+   transform="matrix(1.08642,0,0,0.999802,5416.88,645.611)"
+   id="g5">
+                <path
+   d="m 69.42,67.943 0.697,-1.908 5.005,-0.82 1.457,-2.045 11.87,4.978 z"
+   style="fill:#35813f;fill-rule:nonzero"
+   id="path4" />
+
+            </g>
+
+        </g>
+
+        <g
+   id="dirt"
+   transform="matrix(1.00785,0,0,1.03368,5422.81,689.541)">
+            <rect
+   x="-1.6390001"
+   y="168.29201"
+   width="97.639"
+   height="19.344999"
+   style="fill:#352d26"
+   id="rect4-5" />
+
+        </g>
+
+    </g>
+    <rect
+       style="fill:#b3b3b3;stroke:#232323;stroke-width:0.361;stroke-miterlimit:5.1;paint-order:stroke fill markers"
+       id="rect6"
+       width="8.1323118"
+       height="3.2446144"
+       x="250.26625"
+       y="115.34111" />
+    <path
+       style="fill:#808080;fill-opacity:0.647;stroke:#424242;stroke-width:0.287697;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-9-5-2-2-9)"
+       d="m 313.79431,101.57781 -51.85259,15.44216"
+       id="path5-2-0-6-17-70" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:center;text-anchor:middle;fill:#b3b3b3;stroke:#232323;stroke-width:0.361;stroke-miterlimit:5.1;paint-order:stroke fill markers"
+       x="311.65631"
+       y="101.17189"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="fill:#1a1a1a;stroke-width:0.361"
+         x="311.65631"
+         y="101.17189">Вентилируема</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#1a1a1a;stroke-width:0.361"
+         x="311.65631"
+         y="109.99134"
+         id="tspan10">фасада</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#232323;stroke-width:0.361;stroke-miterlimit:5.1;paint-order:stroke fill markers"
+       x="58.441048"
+       y="178.37068"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="fill:#1a1a1a;stroke-width:0.361"
+         x="58.441048"
+         y="178.37068">Паробариера </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#1a1a1a;stroke-width:0.361"
+         x="58.441048"
+         y="187.19012"
+         id="tspan13">15 [mm]</tspan></text>
   </g>
 </svg>
